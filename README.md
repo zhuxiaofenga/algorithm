@@ -1,2 +1,2 @@
 # algorithm
-this is the code written to learn algorithm.Two parts, first is some self test, second is leetcode. 
+this is the code written to learn algorithm.Three parts, first is basic data structure, second is leetcode, third is some self test.
