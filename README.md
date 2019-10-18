@@ -5,3 +5,6 @@ this is the code written to learn algorithm.Three parts, first is basic data str
 hhahahahahh
 shitshitshit
 
+
+first
+
